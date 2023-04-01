@@ -1,0 +1,25 @@
+
+#img-div{
+    display:block;
+    background-color:lightgray;
+    max-width:100%;
+    margin:auto;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3px;
+}
+
+#tribute-info{
+    max-width:60%;
+    margin:0 auto;
+    text-align: center;
+}
+
+#title, #subtitle{
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
